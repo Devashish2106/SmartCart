@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Macbook Pro",
+    "description": "Apple M3 chip 8-core CPU with 10-core GPU and 16-core Neural Engine",
+    "price": 100000,
+    "category": "Electronics",
+    "imageURL": "https://example.com/macbook_pro.jpg",
+    "items": ["qwe123asd", "zxc456vbn", "poi789lkj"]
+  },
+  {
+    "title": "Dell XPS 13",
+    "description": "Intel i7 11th Gen with 16GB RAM and 512GB SSD",
+    "price": 90000,
+    "category": "Electronics",
+    "imageURL": "https://example.com/dell_xps13.jpg",
+    "items": ["poi789mln", "zsa451oip", "lkj852wer"]
+  },
+  {
+    "title": "HP Pavilion",
+    "description": "AMD Ryzen 5, 8GB RAM, 1TB HDD",
+    "price": 70000,
+    "category": "Electronics",
+    "imageURL": "https://example.com/hp_pavilion.jpg",
+    "items": ["klm963poi", "rew456fgh", "bnm789asd"]
+  },
+  {
+    "title": "Samsung Galaxy S21",
+    "description": "Snapdragon 888 with 8GB RAM and 128GB Storage",
+    "price": 60000,
+    "category": "Mobile Phones",
+    "imageURL": "https://example.com/galaxy_s21.jpg",
+    "items": ["asd852poi", "qaz654wsx", "edc963rfv"]
+  },
+  {
+    "title": "iPhone 13 Pro",
+    "description": "Apple A15 Bionic chip, 6GB RAM, 128GB Storage",
+    "price": 120000,
+    "category": "Mobile Phones",
+    "imageURL": "https://example.com/iphone_13pro.jpg",
+    "items": ["qwe852bnm", "poi963lkj", "vfr456yhn"]
+  },
+  {
+    "title": "A4 Notebooks",
+    "description": "Pack of 10 ruled notebooks, 200 pages each",
+    "price": 500,
+    "category": "Stationery",
+    "imageURL": "https://example.com/a4_notebooks.jpg",
+    "items": ["nbv258qwe", "zxc741poi", "lkj963vfr"]
+  },
+  {
+    "title": "Pilot G2 Pens",
+    "description": "Pack of 5 rollerball pens",
+    "price": 300,
+    "category": "Stationery",
+    "imageURL": "https://example.com/pilot_g2.jpg",
+    "items": ["poi123vbn", "qwe987yui", "zxc654wer"]
+  },
+  {
+    "title": "Samsung LED TV 43\"",
+    "description": "43-inch Smart TV with 4K resolution",
+    "price": 45000,
+    "category": "Electronics",
+    "imageURL": "https://example.com/samsung_tv.jpg",
+    "items": ["vbn654poi", "asd789qwe", "mnb741lkj"]
+  },
+  {
+    "title": "Sony WH-1000XM4 Headphones",
+    "description": "Noise-cancelling wireless headphones",
+    "price": 25000,
+    "category": "Electronics",
+    "imageURL": "https://example.com/sony_wh1000xm4.jpg",
+    "items": ["poi654bnm", "rty987zxc", "jkl741vbn"]
+  },
+  {
+    "title": "Nike Air Max 270",
+    "description": "Men's running shoes with Air Max cushioning",
+    "price": 15000,
+    "category": "Fashion",
+    "imageURL": "https://example.com/nike_airmax270.jpg",
+    "items": ["yhn963vfr", "mnb741zxc", "poi963rty"]
+  },
+  {
+    "title": "Adidas Ultraboost",
+    "description": "Women's running shoes with boost cushioning",
+    "price": 18000,
+    "category": "Fashion",
+    "imageURL": "https://example.com/adidas_ultraboost.jpg",
+    "items": ["asd852lkj", "poi963bnm", "vfr654zxc"]
+  },
+  {
+    "title": "Parker Pen",
+    "description": "Luxury ballpoint pen with gold accents",
+    "price": 2000,
+    "category": "Stationery",
+    "imageURL": "https://example.com/parker_pen.jpg",
+    "items": ["poi456asd", "lkj852qwe", "vbn789zxc"]
+  },
+  {
+    "title": "Realme C35",
+    "description": "Budget phone with 4GB RAM and 64GB storage",
+    "price": 12000,
+    "category": "Mobile Phones",
+    "imageURL": "https://example.com/realme_c35.jpg",
+    "items": ["poi654yhn", "zxc852vbn", "vfr963mnb"]
+  },
+  {
+    "title": "Tropicana Orange Juice",
+    "description": "1-liter carton of pure orange juice",
+    "price": 120,
+    "category": "Grocery",
+    "imageURL": "https://example.com/tropicana_orange.jpg",
+    "items": ["qaz963plm", "vfr741nbv", "poi456rty"]
+  },
+  {
+    "title": "Amul Butter 500g",
+    "description": "500 grams of salted butter",
+    "price": 250,
+    "category": "Grocery",
+    "imageURL": "https://example.com/amul_butter.jpg",
+    "items": ["lkj852asd", "vbn741zxc", "poi789qwe"]
+  },
+  {
+    "title": "Samsung Galaxy Tab A8",
+    "description": "10.5-inch tablet with 64GB storage",
+    "price": 25000,
+    "category": "Electronics",
+    "imageURL": "https://example.com/galaxy_tab_a8.jpg",
+    "items": ["lkj963vbn", "zxc852poi", "vfr789yhn"]
+  },
+  {
+    "title": "Apple iPad Pro",
+    "description": "12.9-inch iPad Pro with M1 chip",
+    "price": 90000,
+    "category": "Electronics",
+    "imageURL": "https://example.com/ipad_pro.jpg",
+    "items": ["poi789lkj", "mnb654asd", "qwe963vfr"]
+  },
+  {
+    "title": "LG OLED TV 55\"",
+    "description": "55-inch OLED TV with 4K resolution",
+    "price": 95000,
+    "category": "Electronics",
+    "imageURL": "https://example.com/lg_oled_tv.jpg",
+    "items": ["lkj741mnb", "poi963asd", "vbn852yhn"]
+  },
+  {
+    "title": "Mi Smart Water Purifier",
+    "description": "Smart water purifier with RO filtration",
+    "price": 12000,
+    "category": "Home Appliances",
+    "imageURL": "https://example.com/mi_water_purifier.jpg",
+    "items": ["poi789vfr", "zxc741lkj", "vbn963poi"]
+  },
+  {
+    "title": "LG Refrigerator 265L",
+    "description": "265-liter double-door fridge with smart inverter",
+    "price": 28000,
+    "category": "Home Appliances",
+    "imageURL": "https://example.com/lg_refrigerator.jpg",
+    "items": ["vbn654poi", "mnb963zxc", "qwe741asd"]
+  },
+  {
+    "title": "HP Omen Gaming Laptop",
+    "description": "16-inch laptop with RTX 3060 GPU and i7 processor",
+    "price": 120000,
+    "category": "Electronics",
+    "imageURL": "https://example.com/hp_omen.jpg",
+    "items": ["qaz852lkj", "vfr963poi", "mnb852qwe"]
+  },
+  {
+    "title": "Sony PlayStation 5",
+    "description": "Latest PlayStation 5 gaming console",
+    "price": 50000,
+    "category": "Gaming",
+    "imageURL": "https://example.com/ps5.jpg",
+    "items": ["poi852vbn", "zxc963mnb", "vfr741qwe"]
+  },
+  {
+    "title": "Puma Running Shoes",
+    "description": "Puma men's running shoes",
+    "price": 3500,
+    "category": "Fashion",
+    "imageURL": "https://example.com/puma_shoes.jpg",
+    "items": ["poi963asd", "vbn741yhn", "lkj852qwe"]
+  },
+  {
+    "title": "Philips Trimmer",
+    "description": "Philips beard trimmer with adjustable length settings",
+    "price": 1500,
+    "category": "Electronics",
+    "imageURL": "https://example.com/philips_trimmer.jpg",
+    "items": ["vfr852poi", "mnb963asd", "zxc741vbn"]
+  },
+  {
+    "title": "Casio G-Shock Watch",
+    "description": "Shock-resistant Casio G-Shock watch",
+    "price": 7000,
+    "category": "Fashion",
+    "imageURL": "https://example.com/casio_gshock.jpg",
+    "items": ["qaz963poi", "vfr741mnb", "lkj852asd"]
+  }
+]
